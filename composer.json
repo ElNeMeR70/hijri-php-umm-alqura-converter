@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/hijri-php-umm-alqura-converter",
+  "description": "Exact Umm Al-Qura Astronomical Hijri-Gregorian Bidirectional Converter (محول التاريخ الهجري والميلادي وفق تقويم أم القرى)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
